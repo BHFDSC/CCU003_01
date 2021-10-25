@@ -11,7 +11,7 @@ Phenotyping algorithms and codelists are available [here](https://github.com/BHF
 
 ## Project approval
 
-This is a subproject of the project approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (Project ID: CCU003, subproject ID CCU003_01).
+This is a sub-project of [project CCU003](https://github.com/BHFDSC/CCU003) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU003_01).
 
 ## License
 
