@@ -1,9 +1,18 @@
 # Predicting and validating risk of pre-pandemic and excess mortality during the COVID-19 pandemic in individuals with chronic kidney disease
 
-## Project description
+## How to cite this work
+> Citation goes here
 
-Description will be added here.
+## Code
+
+Click [here](https://github.com/BHFDSC/CCU003_01/tree/main/code) to view the analysis code.
+
+Phenotyping algorithms and codelists are available [here](https://github.com/BHFDSC/CCU003_01/tree/main/phenotypes)
 
 ## Project approval
 
 This is a subproject of the project approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (Project ID: CCU003, subproject ID CCU003_01).
+
+## License
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this software except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
