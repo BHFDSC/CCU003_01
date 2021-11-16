@@ -1,7 +1,7 @@
 # Predicting and validating risk of pre-pandemic and excess mortality during the COVID-19 pandemic in individuals with chronic kidney disease
 
 ## How to cite this work
-> Citation goes here
+> Citation details to follow
 
 ## Code
 
