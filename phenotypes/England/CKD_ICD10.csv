@@ -1,0 +1,25 @@
+﻿Concept ID,Coding System,Clinical Term
+N18.1,ICD-10,chronic kidney disease Stage 1
+N18.2,ICD-10,chronic kidney disease Stage 2
+N18.3,ICD-10,chronic kidney disease Stage 3
+N18.4,ICD-10,Stage 4 chronic kidney disease
+T82.4,ICD-10,mechanical complication of vascular dialysis catheter
+T86.1,ICD-10,kidney transplant failure and rejection
+Y60.2,ICD-10,during kidney dialysis or other perfusion
+Y61.2,ICD-10,during kidney dialysis or other perfusion
+Y62.2,ICD-10,during kidney dialysis or other perfusion
+Y84.1,ICD-10,kidney dialysis
+Z49,ICD-10,Z49 ICD-10 care involving dialysis
+Z49.0,ICD-10,preparatory care for dialysis
+Z49.1,ICD-10,extracorporeal dialysis
+Z49.2,ICD-10,other dialysis
+Z94.0,ICD-10,kidney transplant status
+Z99.2,ICD-10,dependence on renal dialysis/{on dialysis treatment}
+N18.6,ICD-10,patients with CKD requiring dialysis
+I77.0,ICD-10,arteriovenous fistula
+N16.5,ICD-10,renal tubulo-interstitial disorders in transplant rejection
+N18.5,ICD-10,chronic kidney disease
+N18.6,ICD-10,patients with CKD requiring dialysis
+I77.0,ICD-10,arteriovenous fistula
+N16.5,ICD-10,renal tubulo-interstitial disorders in transplant rejection
+N18.5,ICD-10,chronic kidney disease
