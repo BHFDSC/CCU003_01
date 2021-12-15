@@ -1,0 +1,113 @@
+Concept ID,Clinical Term,CKD Stage
+324121000000109,chronic kidney disease stage 1 with proteinuria,1
+285851000119102,malignant hypertensive chronic kidney disease stage 1,1
+431855005,chronic kidney disease stage 1,1
+949421000000107,ckd g1a2 - chronic kidney disease with glomerular filtration rate category g1 and albuminuria category a2,1
+96751000119106,hypertensive heart and chronic kidney disease stage 1,1
+949481000000108,chronic kidney disease with glomerular filtration rate category g1 and albuminuria category a3,1
+324151000000104,chronic kidney disease stage 1 without proteinuria,1
+994401000006102,chronic kidney disease stage 1,1
+324181000000105,chronic kidney disease stage 2 with proteinuria,2
+949521000000108,chronic kidney disease with glomerular filtration rate category g2 and albuminuria category a1,2
+949621000000109,ckd g2a3 - chronic kidney disease with glomerular filtration rate category g2 and albuminuria category a3,2
+285861000119100,malignant hypertensive chronic kidney disease stage 2,2
+994411000006104,chronic kidney disease stage 2,2
+431856006,chronic kidney disease stage 2,2
+324211000000106,chronic kidney disease stage 2 without proteinuria,2
+949561000000100,chronic kidney disease with glomerular filtration rate category g2 and albuminuria category a2,2
+96741000119109,hypertensive heart and chronic kidney disease stage 2,2
+700379002,chronic kidney disease stage 3b,3
+324251000000105,chronic kidney disease stage 3 with proteinuria,3
+324311000000101,chronic kidney disease stage 3a with proteinuria,3
+949881000000106,chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a1,3
+324341000000100,ckd (chronic kidney disease) stage 3a without proteinuria,3
+285871000119106,malignant hypertensive chronic kidney disease stage 3,3
+90741000119107,chronic kidney disease stage 3 due to type i diabetes mellitus,3
+140121000119100,hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus,3
+96731000119100,hypertensive heart and chronic kidney disease stage 3,3
+949901000000109,ckd g3aa2 - chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a2,3
+949921000000100,ckd g3aa3 - chronic kidney disease with glomerular filtration rate category g3a and albuminuria category a3,3
+950061000000103,ckd g3ba1 - chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a1,3
+950101000000101,ckd g3ba3 - chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a3,3
+433144002,chronic kidney disease stage 3,3
+324411000000105,chronic kidney disease stage 3b without proteinuria,3
+324281000000104,ckd (chronic kidney disease) stage 3 without proteinuria,3
+324371000000106,chronic kidney disease stage 3b with proteinuria,3
+950081000000107,ckd g3ba2 - chronic kidney disease with glomerular filtration rate category g3b and albuminuria category a2,3
+691421000119108,anemia co-occurrent and due to chronic kidney disease stage 3,3
+731000119105,chronic kidney disease stage 3 due to type ii diabetes mellitus,3
+994421000006107,chronic kidney disease stage 3,3
+284991000119104,chronic kidney disease stage 3 due to benign hypertension,3
+129171000119106,chronic kidney disease stage 3 due to hypertension,3
+700378005,chronic kidney disease stage 3a,3
+950211000000107,chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a2,4
+324441000000106,ckd (chronic kidney disease) stage 4 with proteinuria,4
+691401000119104,anemia co-occurrent and due to chronic kidney disease stage 4,4
+285001000119105,chronic kidney disease stage 4 due to benign hypertension,4
+90751000119109,chronic kidney disease stage 4 due to type 1 diabetes mellitus,4
+950181000000106,ckd g4a1 - chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a1,4
+950231000000104,ckd g4a3 - chronic kidney disease with glomerular filtration rate category g4 and albuminuria category a3,4
+721000119107,chronic kidney disease stage 4 due to type 2 diabetes mellitus,4
+431857002,chronic kidney disease stage 4,4
+324471000000100,chronic kidney disease stage 4 without proteinuria,4
+96721000119103,hypertensive heart and chronic kidney disease stage 4,4
+140111000119107,hypertension in chronic kidney disease stage 4 due to type ii diabetes mellitus,4
+285881000119109,malignant hypertensive chronic kidney disease stage 4,4
+129151000119102,chronic kidney disease stage 4 due to hypertension,4
+994431000006105,chronic kidney disease stage 4,4
+324541000000105,chronic kidney disease stage 5 without proteinuria,5
+994441000006100,chronic kidney disease stage 5,5
+950291000000103,chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a2,5
+90761000119106,chronic kidney disease stage 5 due to type 1 diabetes mellitus,5
+714153000,chronic kidney disease 5t,5
+140101000119109,hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus,5
+711000119100,chronic kidney disease stage 5 due to type ii diabetes mellitus,5
+714152005,ckd (chronic kidney disease) stage 5d,5
+433146000,chronic kidney disease stage 5,5
+691411000119101,anaemia in chronic kidney disease stage 5,5
+96711000119105,hypertensive heart and chronic kidney disease stage 5,5
+153851000119106,malignant hypertensive chronic kidney disease stage 5,5
+285011000119108,chronic kidney disease stage 5 due to benign hypertension,5
+950251000000106,ckd g5a1 - chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a1,5
+129161000119100,chronic kidney disease stage 5 due to hypertension,5
+324501000000107,ckd (chronic kidney disease) stage 5 with proteinuria,5
+950311000000102,ckd g5a3 - chronic kidney disease with glomerular filtration rate category g5 and albuminuria category a3,5
+216933008,Failure of sterile precautions during kidney dialysis,5
+238318009,Continuous ambulatory peritoneal dialysis,5
+423062001,Stenosis of arteriovenous dialysis fistula,5
+438546008,Ligation of arteriovenous dialysis fistula,5
+180272001,Placement ambulatory dialysis apparatus - compens renal fail,5
+385971003,[V]Preparatory care for dialysis,5
+426361000000104,[V]Unspecified aftercare involving intermittent dialysis,5
+302497006,Haemodialysis,5
+251859005,Dialysis finding,5
+108241001,Dialysis procedure,5
+398471000000102,[V]Aftercare involving intermittent dialysis,5
+180273006,Removal of ambulatory peritoneal dialysis catheter,5
+426340003,Creation of graft fistula for dialysis,5
+410511000000103,[V]Aftercare involving renal dialysis NOS,5
+426351000000102,[V]Aftercare involving peritoneal dialysis  without blame,5
+71192002,Peritoneal dialysis NEC,5
+116223007,"Kidney dialysis with complication, without blame",5
+428648006,Automated peritoneal dialysis,5
+991521000000102,Dialysis fluid glucose level,5
+161693006,H/O: renal dialysis puncture perforation or haemorrhage during kidney dialysis,5
+17778006,Mechanical complication of dialysis catheter,5
+216878005,"Accidental cut, puncture, perforation or haemorrhage during kidney dialysis",5
+276883000,Peritoneal dialysis-associated peritonitis,5
+265764009,Renal dialysis,5
+180277007,Insertion of temporary peritoneal dialysis catheter,5
+79827002,cadaveric renal transplant,5
+269698004,failure of sterile precautions during kidney dialysis,5
+269691005,very mild acute rejection of renal transplant,5
+216904007,acute rejection of renal transplant - grade i,5
+70536003,Renal transplant stage 5,5
+427053002,Extracorporeal albumin haemodialysis stage 5,5
+225283000,Priming haemodialysis lines stage 5,5
+420106004,Renal transplant venogram stage 5,5
+708932005,Emergency haemodialysis stage 5,5
+5571000001109,solution haemodialysis stage 5,5
+366961000000102,Renal transplant recipient stage 5,5
+57274006,Initial haemodialysis stage 5,5
+233575001,Intermittent haemodialysis stage 5,5
+85223007,Complication of haemodialysis stage 5,5
