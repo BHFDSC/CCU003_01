@@ -1,13 +1,13 @@
-# Predicting and validating risk of pre-pandemic and excess mortality during the COVID-19 pandemic in individuals with chronic kidney disease
+# A retrospective cohort study measured predicting and validating the impact of the COVID-19 pandemic in individuals with chronic kidney disease
 
 ## How to cite this work
-> Citation details to follow
+>  Dashtban A, Mizani MA, Denaxas S, Nitsch D, Quint J, Corbett R, Mamza JB, Morris T, Mamas M, Lawlor DA, Khunti K, CVD-COVID-UK Consortium, Sudlow C, Hemingway
+H, Banerjee A, A retrospective cohort study measured predicting and validating the impact of the COVID-19 pandemic in individuals with chronic kidney disease., Kidney International (2022), doi: https://doi.org/10.1016/j.kint.2022.05.015
 
 ## Code
 
-Click [here](https://github.com/BHFDSC/CCU003_01/tree/main/code) to view the analysis code.
-
-Phenotyping algorithms and codelists are available [here](https://github.com/BHFDSC/CCU003_01/tree/main/phenotypes)
+* [View the analysis code used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU003_01/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU003_01/tree/main/phenotypes)
 
 ## Project approval
 
